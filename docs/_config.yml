@@ -35,7 +35,9 @@ kramdown:
   highlighter: rouge
 theme: minima
 plugins:
-  - jekyll-feed
+ - jekyll-feed
+feed:
+  excerpt_only: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
