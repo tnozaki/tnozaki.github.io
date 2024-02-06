@@ -38,6 +38,7 @@ plugins:
  - jekyll-feed
 feed:
   excerpt_only: true
+locale: ja_JP
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
