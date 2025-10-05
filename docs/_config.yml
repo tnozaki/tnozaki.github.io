@@ -14,13 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 timezone: Asia/Tokyo
-title: I know I believe in nothing but it is my sweet nothing
+title: I'd rather be a deer than a fascist and a racist.
 email: tnozaki@outlook.com
 description: >-
-  All of the things that are my life,
-  my desires, my beliefs, my moods.
-  I just want what I can't have.
-  'til my dreams burn down and choke me every time.
+  Not only is Internet dead, it's starting to smell really bad.
 domain: tnozaki.guthub.io
 baseurl: ""
 url: https://tnozaki.github.io
