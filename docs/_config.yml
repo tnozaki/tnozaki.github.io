@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 timezone: Asia/Tokyo
-title: I'd rather be a deer than a fascist and a racist.
+title: I'd rather be a deerhunter than a fascist and a racist.
 email: tnozaki@outlook.com
 description: >-
   Not only is Internet dead, it's starting to smell really bad.
