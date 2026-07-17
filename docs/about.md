@@ -4,32 +4,15 @@ title: About
 permalink: /about/
 ---
 
-We are sad Japanese  
-Begging for culture to both east and west  
-Invading both north and south  
-Center line goes straight  
+Take up arms and shout, Who can judge us?  
+Take up arms and shout, Who has defiled the land?  
 
+The cynicism of anti-intellectuals continues to echo in this country built on lies.  
+Take up arms and shout, We won't be fooled by childish myths anymore.  
+They don't understand anything, I don't want to see their faces.  
 
-When we hear your voice, our head lose sanity  
-Start doing mess without regard for others  
-Imperialists are popping up everywhere  
+I refuse to die for someone else, so take up arms!  
+His hand was on the trigger, so take up arms!  
 
-
-What nationality are you?  
-What nationality are you?  
-What nationality are you?  
-What nationality are you?  
-
-
-STOP JAP  
-STOP JAP  
-STOP JAP  
-
-
-Crush them  
-Crush them  
-
-
-STOP JAP  
-STOP JAP  
-STOP JAP  
+Take up arms!  
+Take up arms!  
