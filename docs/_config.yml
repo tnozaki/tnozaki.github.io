@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 timezone: Asia/Tokyo
-title: Once the deer is dead, the rabies is over.
+title: What's so funny 'bout 2+2=4 ?
 email: tnozaki@outlook.com
 description: >-
-  'Tis Pity Prime Minister's a Whore
+  'Tis Pity Prime Minister's a Whore.
+  Once the deer is dead, the rabies is over.
 domain: tnozaki.guthub.io
 baseurl: ""
 url: https://tnozaki.github.io
